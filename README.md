@@ -1,18 +1,18 @@
 <p align="center">
-<a href="https://github.com/FG98F"><img title="FG98F" src="https://img.shields.io/badge/github-FG98-orange.svg?style=social&logo=github"></a>
+<a href="https://github.com/WolfWaddle"><img title="Wolf" src="https://img.shields.io/badge/github-WolfWaddle-orange.svg?style=social&logo=github"></a>
 </p>
 <p align="center">
-<img src="https://gpvc.arturio.dev/FG98F" />
+<img src="https://gpvc.arturio.dev/WolfWaddle" />
 <p/>
 <p align="center">
-<a href="https://github.com/FG98F"><img title="Author" src="https://img.shields.io/badge/DyLux Bot-black?style=for-the-badge&logo=whatsApp"></a>
+<a href="https://github.com/WolfWaddle"><img title="Author" src="https://img.shields.io/badge/TheWolf Bot-black?style=for-the-badge&logo=whatsApp"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/FG98F/followers"><img title="Followers" src="https://img.shields.io/github/followers/FG98F?label=Followers&style=social"></a>
-<a href="https://github.com/FG98F/dylux-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/FG98F/dylux-bot?&style=social"></a>
-<a href="https://github.com/FG98F/dylux-bot/network/members"><img title="Fork" src="https://img.shields.io/github/forks/FG98F/dylux-bot?style=social"></a>
-<a href="https://github.com/FG98F/dylux-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/FG98F/dylux-bot?label=Watching&style=social"></a>
-<a href="https://github.com/FG98F/dylux-bot/watchers"><img title="Contributor" src="https://img.shields.io/github/contributors/FG98F/dylux-bot?logo=github&style=social"></a>
+<a href="https://github.com/WolfWaddle/followers"><img title="Followers" src="https://img.shields.io/github/followers/FG98F?label=Followers&style=social"></a>
+<a href="https://github.com/WolfWaddle/dylux-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/FG98F/dylux-bot?&style=social"></a>
+<a href="https://github.com/WolfWaddle/dylux-bot/network/members"><img title="Fork" src="https://img.shields.io/github/forks/FG98F/dylux-bot?style=social"></a>
+<a href="https://github.com/WolfWaddle/dylux-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/FG98F/dylux-bot?label=Watching&style=social"></a>
+<a href="https://github.com/WolfWaddle/dylux-bot/watchers"><img title="Contributor" src="https://img.shields.io/github/contributors/FG98F/dylux-bot?logo=github&style=social"></a>
 </p>
 
 
@@ -32,12 +32,6 @@ Para resultados perfectos debes tener la versión original de la aplicación Wha
 
 ***
 
-### Ejemplo 
-En caso de duda, antes de instalar dylux-bot, pruebe el bot aquí primero
-
-<p>
-<a href="https://instabio.cc/fg98ff" target="blank"><img src="https://img.shields.io/badge/DyLux Bot-30302f?style=flat&logo=whatsapp" /></a>
-</p>
 
 Multi-idioma para cada usuario, lo que significa que el usuario puede elegir el idioma que quiere usar
 
@@ -59,7 +53,7 @@ Puedes abrir el idioma  [Aqui](https://github.com/FG98F/dylux-bot/tree/main/lang
 • pkg install git
 • pkg install ffmpeg
 • pkg install nodejs
-• git clone https://github.com/FG98F/dylux-bot
+• git clone https://github.com/WolfWaddle/dylux-bot
 • cd dylux-bot
 • npm i
 • npm start
@@ -82,37 +76,10 @@ Cuando aparezca el QR, escanéelo usando la aplicación WhatsApp que se usará p
 - [x] Votacion 
 - [ ] Y mucho más
 
-Puedes abrir el menú [aquí](https://github.com/FG98F/dylux-bot/blob/main/functions/menu.js)
-
-### Grupo de WhatsApp 
-
-<p>
-<a href="https://instabio.cc/fg98ff" target="blank"><img src="https://img.shields.io/badge/DyLux Bot-30302f?style=flat&logo=whatsapp" /></a>
-</p>
-
-### Mis Contactos
-Para obtener información más detallada, comuníquese conmigo a través de las redes sociales a continuación. :
-
-<p>
-<a href="http://wa.me/59172945992" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
-<a href="http://www.instagram.com/fg98._/" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
-<a href="https://m.facebook.com/fg98ff" target="blank"><img src="https://img.shields.io/badge/Facebook-30302f?style=flat&logo=facebook" /></a>
-</p>
-
-***
+Puedes abrir el menú [aquí](https://github.com/WolfWaddle/dylux-bot/blob/main/functions/menu.js)
 
 
 
 
-### Github Stats
-
-![github stats](https://github-readme-stats.vercel.app/api?username=FG98F&show_icons=true&theme=chartreuse-dark)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=FG98F&layout=compact&theme=chartreuse-dark)
-### Lenguaje y herramientas
-<a href="https://github.com/FG98F"><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"></a>
-<a href="https://github.com/FG98F"><img
-src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"></a>
-<a href="https://github.com/FG98F"><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"></a>
-<a href="https://github.com/FG98F"><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></a>
 
 
