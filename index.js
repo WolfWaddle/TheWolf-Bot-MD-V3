@@ -454,7 +454,7 @@ switch (command) {
  
  case 'menu': 
  case 'help':
-    capt = `────  *DyLux  ┃ ᴮᴼᵀ*  ────
+    capt = `𝑇ℎ𝑒𝑊𝑜𝑙𝑓-𝐵𝑜𝑡-𝑀𝐷-𝑉3
     
 ${msg.hi} *${pushname}* ${ucapanWaktu}
     
@@ -462,17 +462,16 @@ ${msg.hi} *${pushname}* ${ucapanWaktu}
 ⎔ *Premium* : ${prem}
 
 ▢ ${msg.cretb}
-• https://youtu.be/F4lGWb1WXgM 
+•  https://youtu.be/dQw4w9WgXcQ
 
 ${readMore}
 ${menu(prefix)} 
-`
-    Fg.send3ButtonLoc(from, thumbfg, capt, `▢ *DyLux  ┃ ᴮᴼᵀ*\n▢ *Total Hits* : ${isTotalcmd}\n▢ *Usuarios* : ${User.length}\n▢ *Runtime* : ${kyun(process.uptime())}\n\n${msg.foll}`,  '✆ Owner', `${prefix}owner`, '⏍ Info', `${prefix}info`, `⌬ ${msg.gp}s`, `${prefix}grupos`)
+    Fg.send3ButtonLoc(from, thumbfg, capt, `𝑇ℎ𝑒𝑊𝑜𝑙𝑓-𝐵𝑜𝑡-𝑀𝐷-𝑉3 *Total Hits* : ${isTotalcmd}\n▢ *Usuarios* : ${User.length}\n▢ *Runtime* : ${kyun(process.uptime())}\n\n${msg.foll}`,  '✆ Owner', `${prefix}owner`, '⏍ Info', `${prefix}info`, `⌬ ${msg.gp}s`, `${prefix}grupos`)
     break
     
    /*case 'menuvc': 
  case 'helpvc':
-    capt = `────  *DyLux  ┃ ᴮᴼᵀ*  ────
+    capt = `𝑇ℎ𝑒𝑊𝑜𝑙𝑓-𝐵𝑜𝑡-𝑀𝐷-𝑉3
     
 ${msg.hi} *${pushname}* ${ucapanWaktu}
     
@@ -489,14 +488,13 @@ ${menuVC}
     case 'groups': 
     case 'dylux': 
     gps = `
-≡  *DyLux  ┃ ᴮᴼᵀ*  GRUPOS
+≡  *𝑇ℎ𝑒𝑊𝑜𝑙𝑓-𝐵𝑜𝑡-𝑀𝐷-𝑉2*  GRUPOS
 
 ▢ ${msg.gp} 1
-https://instabio.cc/fg98ff
+ https://github.com/WolfWaddle
 
-▢ *YouTube*
-• https://www.youtube.com/fg98f
-`
+▢ *Youtube 
+`https://youtube.com/channel/UCgIreVDwGz5ryYxZjM6sPNw
 m.reply(gps)
 break 
 
@@ -537,24 +535,11 @@ case 'lang':
     case 'owner':
 case 'creator':
 case 'creador': 
-case 'developer':
-   //Fg.sendContact(from, '5493885839638', 'FG98', mek) 
+case 'developer'from, '593960672979', 'Wolf', mek)  
    m.reply(`
 *≡ OWNER*
 
-▢ Instagram :
-  • https://instagram.com/fg98._
-▢ WhatsApp : 
-  • wa.me/
-▢ Telegram : 
-  • t.me/fgsupp_bot 
-  • t.me/fg98ff (canal)
-  • t.me/fgawgp (grupo)
-▢ Facebook : 
-  • https://facebook.com/fg98ff/
-  • https://facebook.com/fg98A/
-▢ YouTube : 
-  • https://youtube.com/fg98f
+▢ Github https://github.com/WolfWaddle/
 `)
     break
     
