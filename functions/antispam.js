@@ -9,7 +9,7 @@ const addFilter = (from) => {
     usedCommandRecently.add(from);
     setTimeout(() => {
         return usedCommandRecently.delete(from);
-    }, 3000);// 3sec es el cooldown para el siguiente comando;
+    }, 2000);// 2sec es el cooldown para el siguiente comando;
 };
 module.exports = {
     msgFilter: {
