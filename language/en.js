@@ -72,7 +72,6 @@ exports.pptuser = `You`;
 exports.papel = `paper`;
 exports.tijera = `scissor`;
 exports.piedra = `stone`;
-exports.foll = `Follow me in Instagram \nhttps://www.instagram.com/fg98._ `;
 exports.plays = `Enter a song title`;
 exports.playm = `The file is too large, music playback was canceled, the maximum file size is`;
 exports.listgp = `LIST of Groups`;
@@ -88,15 +87,7 @@ exports.vcnrst = 'Not detected';
 exports.vclect = 'Voice reading';
 exports.listwb = 'Event list';
 exports.pregt = 'She Loves Me?';
-exports.donate = `≡ *DONATION*
-You can support the creator of the bot by donating :) 
 
-▢ *PayPal*
-• *Link :* https://paypal.me/fg98f
-▢ *Mercado Pago Arg*
-• *Link :* https://mpago.la/1F3r6JH
-▢ *Tigo Money*
-• *N° :*  78230727`;
 exports.cretb = 'Create your own bot using Termux';
 
 // -- Saying time
