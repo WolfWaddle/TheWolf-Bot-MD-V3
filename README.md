@@ -53,8 +53,8 @@ Puedes abrir el idioma  [Aqui](https://github.com/FG98F/dylux-bot/tree/main/lang
 • pkg install git
 • pkg install ffmpeg
 • pkg install nodejs
-• git clone https://github.com/WolfWaddle/dylux-bot
-• cd dylux-bot
+• git clone https://github.com/WolfWaddle/TheWolf-Bot-MD-V3
+• cd TheWolf-Bot-MD-V3
 • npm i
 • npm start
 ```
@@ -76,7 +76,7 @@ Cuando aparezca el QR, escanéelo usando la aplicación WhatsApp que se usará p
 - [x] Votacion 
 - [ ] Y mucho más
 
-Puedes abrir el menú [aquí](https://github.com/WolfWaddle/dylux-bot/blob/main/functions/menu.js)
+Puedes abrir el menú [aquí](https://github.com/WolfWaddle/TheWolf-Bot-MD-V3/blob/main/functions/menu.js)
 
 
 
